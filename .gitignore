@@ -1,0 +1,8 @@
+# dev env
+node_modules
+package-lock.json
+.DS_Store
+
+# folder
+src/images/
+dist/images/
